@@ -1,0 +1,47 @@
+_repo: The-romance-of-the-animal-world-b-Interesting-descriptions-of-the-strange-curious-in-natural-__72336
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Dadd, Stephen T.
+    aliases:
+    - Dadd, S.T.
+    - Dadd, S. T.
+    birthdate: 1858
+    deathdate: 1917
+    gutenberg_agent_id: '54771'
+    url: http://www.gutenberg.org/2009/agents/54771
+  - agent_name: Speed, Lancelot
+    birthdate: 1860
+    deathdate: 1931
+    gutenberg_agent_id: '9847'
+    url: http://www.gutenberg.org/2009/agents/9847
+    wikipedia: https://en.wikipedia.org/wiki/Lancelot_Speed
+creator:
+  author:
+    agent_name: Selous, Edmund
+    birthdate: 1857
+    deathdate: 1934
+    gutenberg_agent_id: '45735'
+    url: http://www.gutenberg.org/2009/agents/45735
+    wikipedia: https://en.wikipedia.org/wiki/Edmund_Selous
+description: ''
+gutenberg_issued: '2023-12-05'
+identifiers:
+  gutenberg: '72336'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=mdp.39015064469375&view=1up&seq=13
+pgterms:marc905: 20210223224126selous
+pgterms:marc906: '1905'
+pgterms:marc907: us
+production_note: Emmanuel Ackerman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This book was produced from images made available by the HathiTrust
+  Digital Library.)
+publication_note: '  $aPhiladelphia :$bJ. B. Lippincott Company, $c1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The romance of the animal world : $b Interesting descriptions of the strange
+  & curious in natural history'
+url: http://www.gutenberg.org/ebooks/72336
