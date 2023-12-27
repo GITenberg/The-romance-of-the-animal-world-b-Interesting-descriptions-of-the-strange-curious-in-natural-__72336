@@ -16,6 +16,9 @@ contributor:
     gutenberg_agent_id: '9847'
     url: http://www.gutenberg.org/2009/agents/9847
     wikipedia: https://en.wikipedia.org/wiki/Lancelot_Speed
+covers:
+- cover_type: archival
+  image_path: 72336-h/images/cover.jpg
 creator:
   author:
     agent_name: Selous, Edmund
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/45735
     wikipedia: https://en.wikipedia.org/wiki/Edmund_Selous
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72336#The-romance-of-the-animal-world-b-Interesting-descriptions-of-the-strange-curious-in-natural-_
 gutenberg_issued: '2023-12-05'
 identifiers:
   gutenberg: '72336'
